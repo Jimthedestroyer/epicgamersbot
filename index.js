@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const ms = require('ms');
 const bot = new Discord.Client();
 const commandsDoc = 'https://docs.google.com/document/d/1Wq-b90YR_QxgH95cIAVK-906YJyfxXc-kZ8c6skvGv0/edit?usp=sharing';
-const token = "Njc2OTI2NTAwMDkxNDYxNjg0.XkMy-g.6Goqnd_7zfAUDCw7MA513OhaFs8";
+const token = "broski";
 
 const prefix = '!';
 
